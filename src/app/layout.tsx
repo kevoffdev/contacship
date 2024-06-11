@@ -15,7 +15,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className="px-4 font-sans min-h-screen grid grid-rows-[auto,1fr,auto] antialiased
-      max-w-2xl mx-auto"
+      max-w-xl mx-auto"
       >
         <header className="text-2xl font-bold leading-[4rem]">Contactship</header>
         {children}
